@@ -19,11 +19,6 @@ export default function Hero() {
             impression on people's lives. I channel that passion into helping
             brands connect on a deeper level.
           </p>
-          <div className="pt-4">
-            <Button className="bg-purple-600 hover:bg-purple-700">
-              Get in Touch
-            </Button>
-          </div>
         </div>
         <div className="md:w-1/2 mt-10 md:mt-0 flex justify-center">
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
